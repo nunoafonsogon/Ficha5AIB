@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_dxaz4AYjEeqoC5HfzAWqxA" name="bficha5" id="_o05k4AYiEeqoC5HfzAWqxA" label="bficha5" dataPackage="_HPM0EAY3EeqQYfi-h_p26w" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/ficha5?noDatetimeStringSync=true&amp;useSSL=false" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="jqUiPpqwiNk=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="ficha5" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;useSSL=false" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_dxkk4AYjEeqoC5HfzAWqxA" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_dx3f0AYjEeqoC5HfzAWqxA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_dyBQ0AYjEeqoC5HfzAWqxA" tag="Status" value=""/>
+    <taggedValue xmi:id="_dyBQ0QYjEeqoC5HfzAWqxA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_dyBQ0gYjEeqoC5HfzAWqxA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_dyBQ0wYjEeqoC5HfzAWqxA" tag="Description" value=""/>
+    <taggedValue xmi:id="_dyBQ1AYjEeqoC5HfzAWqxA" tag="Author" value=""/>
+    <taggedValue xmi:id="_dyBQ1QYjEeqoC5HfzAWqxA" tag="otherParameter"/>
+    <taggedValue xmi:id="_d1liMAYjEeqoC5HfzAWqxA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_d1liMQYjEeqoC5HfzAWqxA" tag="DB ProductVersion" value="8.0.17"/>
+    <taggedValue xmi:id="_d1liMgYjEeqoC5HfzAWqxA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_dxkk4QYjEeqoC5HfzAWqxA" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_wyi7cAYjEeqoC5HfzAWqxA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_HPM0EAY3EeqQYfi-h_p26w" name="ficha5" dataManager="_dxaz4AYjEeqoC5HfzAWqxA"/>
+</xmi:XMI>

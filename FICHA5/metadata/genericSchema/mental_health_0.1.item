@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_m7a98AYmEeqhi4YrnB68kQ" comment="connectionComment" label="connectionLabel" dataPackage="_m7a98QYmEeqhi4YrnB68kQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_m7a98QYmEeqhi4YrnB68kQ" dataManager="_m7a98AYmEeqhi4YrnB68kQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_m7a98gYmEeqhi4YrnB68kQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a98wYmEeqhi4YrnB68kQ" name="Timestamp" id="2" label="Timestamp" length="19" talendType="id_Date" pattern="&quot;yyyy-MM-dd HH:mm:ss&quot;">
+        <initialValue xmi:id="_m7a99AYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a99QYmEeqhi4YrnB68kQ" name="Age" id="3" label="Age" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a99gYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a99wYmEeqhi4YrnB68kQ" name="Gender" id="4" label="Gender" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a9-AYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a9-QYmEeqhi4YrnB68kQ" name="Country" id="5" label="Country" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a9-gYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a9-wYmEeqhi4YrnB68kQ" name="state" id="6" label="state" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a9_AYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a9_QYmEeqhi4YrnB68kQ" name="self_employed" id="7" label="self_employed" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a9_gYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a9_wYmEeqhi4YrnB68kQ" name="family_history" id="8" label="family_history" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-AAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-AQYmEeqhi4YrnB68kQ" name="treatment" id="9" label="treatment" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-AgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-AwYmEeqhi4YrnB68kQ" name="work_interfere" id="10" label="work_interfere" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-BAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-BQYmEeqhi4YrnB68kQ" name="no_employees" id="11" label="no_employees" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-BgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-BwYmEeqhi4YrnB68kQ" name="remote_work" id="12" label="remote_work" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-CAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-CQYmEeqhi4YrnB68kQ" name="tech_company" id="13" label="tech_company" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-CgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-CwYmEeqhi4YrnB68kQ" name="benefits" id="14" label="benefits" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-DAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-DQYmEeqhi4YrnB68kQ" name="care_options" id="15" label="care_options" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-DgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-DwYmEeqhi4YrnB68kQ" name="wellness_program" id="16" label="wellness_program" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-EAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-EQYmEeqhi4YrnB68kQ" name="seek_help" id="17" label="seek_help" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-EgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-EwYmEeqhi4YrnB68kQ" name="anonymity" id="18" label="anonymity" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-FAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-FQYmEeqhi4YrnB68kQ" name="leave" id="19" label="leave" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-FgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-FwYmEeqhi4YrnB68kQ" name="mental_health_consequence" id="20" label="mental_health_consequence" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-GAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-GQYmEeqhi4YrnB68kQ" name="phys_health_consequence" id="21" label="phys_health_consequence" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-GgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-GwYmEeqhi4YrnB68kQ" name="coworkers" id="22" label="coworkers" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-HAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-HQYmEeqhi4YrnB68kQ" name="supervisor" id="23" label="supervisor" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-HgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-HwYmEeqhi4YrnB68kQ" name="mental_health_interview" id="24" label="mental_health_interview" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-IAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-IQYmEeqhi4YrnB68kQ" name="phys_health_interview" id="25" label="phys_health_interview" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-IgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-IwYmEeqhi4YrnB68kQ" name="mental_vs_physical" id="26" label="mental_vs_physical" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-JAYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-JQYmEeqhi4YrnB68kQ" name="obs_consequence" id="27" label="obs_consequence" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-JgYmEeqhi4YrnB68kQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7a-JwYmEeqhi4YrnB68kQ" name="comments" id="28" label="comments" length="8000" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7a-KAYmEeqhi4YrnB68kQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

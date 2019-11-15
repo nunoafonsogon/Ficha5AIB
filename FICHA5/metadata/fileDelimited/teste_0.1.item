@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_MnNVAAX_EeqoC5HfzAWqxA" name="teste" dataPackage="_MnNVAQX_EeqoC5HfzAWqxA" Server="Localhost 127.0.0.1" FilePath="C:/Users/Nuno/Desktop/TOS_BD-20190620_1446-V7.2.1/workspace/FICHA5/mental_health.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_MnNVAQX_EeqoC5HfzAWqxA" name="default" dataManager="_MnNVAAX_EeqoC5HfzAWqxA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_MnNVAgX_EeqoC5HfzAWqxA" id="_rxIXMAX7EeqoC5HfzAWqxA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVAwX_EeqoC5HfzAWqxA" label="Timestamp" length="19" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVBAX_EeqoC5HfzAWqxA" label="Age" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVBQX_EeqoC5HfzAWqxA" label="Gender" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVBgX_EeqoC5HfzAWqxA" label="Country" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVBwX_EeqoC5HfzAWqxA" label="state" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVCAX_EeqoC5HfzAWqxA" label="self_employed" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVCQX_EeqoC5HfzAWqxA" label="family_history" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVCgX_EeqoC5HfzAWqxA" label="treatment" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVCwX_EeqoC5HfzAWqxA" label="work_interfere" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVDAX_EeqoC5HfzAWqxA" label="no_employees" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVDQX_EeqoC5HfzAWqxA" label="remote_work" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVDgX_EeqoC5HfzAWqxA" label="tech_company" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVDwX_EeqoC5HfzAWqxA" label="benefits" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVEAX_EeqoC5HfzAWqxA" label="care_options" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVEQX_EeqoC5HfzAWqxA" label="wellness_program" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVEgX_EeqoC5HfzAWqxA" label="seek_help" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVEwX_EeqoC5HfzAWqxA" label="anonymity" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVFAX_EeqoC5HfzAWqxA" label="leave" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVFQX_EeqoC5HfzAWqxA" label="mental_health_consequence" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVFgX_EeqoC5HfzAWqxA" label="phys_health_consequence" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVFwX_EeqoC5HfzAWqxA" label="coworkers" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVGAX_EeqoC5HfzAWqxA" label="supervisor" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVGQX_EeqoC5HfzAWqxA" label="mental_health_interview" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVGgX_EeqoC5HfzAWqxA" label="phys_health_interview" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVGwX_EeqoC5HfzAWqxA" label="mental_vs_physical" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVHAX_EeqoC5HfzAWqxA" label="obs_consequence" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MnNVHQX_EeqoC5HfzAWqxA" label="comments" length="281" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
